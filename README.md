@@ -450,13 +450,6 @@ Current test result:
 
 ### Streamlit Chat Interface
 
-Add a screenshot of the running Streamlit application here:
-
-```text
-docs/screenshots/app.png
-```
-
-Then display it in this section using:
 
 ```markdown
 ![PyTorch RAG Assistant](C:\rag-assistant-project\docs\screenshots\app.png)
@@ -464,13 +457,6 @@ Then display it in this section using:
 
 ### FastAPI Swagger Interface
 
-Add a screenshot of the FastAPI Swagger UI here:
-
-```text
-docs/screenshots/swagger.png
-```
-
-Then display it using:
 
 ```markdown
 ![FastAPI Swagger UI](C:\rag-assistant-project\docs\screenshots\swagger.png)
