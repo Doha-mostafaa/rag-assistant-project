@@ -495,6 +495,4 @@ Streamlit Frontend
 
 The LLM receives the retrieved document context as part of the RAG pipeline, allowing the application to answer questions based on the PyTorch documentation corpus rather than relying only on the model's general knowledge.
 
-## License
 
-MIT
