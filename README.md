@@ -459,7 +459,7 @@ docs/screenshots/app.png
 Then display it in this section using:
 
 ```markdown
-![PyTorch RAG Assistant](docs/screenshots/app.png)
+![PyTorch RAG Assistant](C:\rag-assistant-project\docs\screenshots\app.png)
 ```
 
 ### FastAPI Swagger Interface
@@ -473,7 +473,7 @@ docs/screenshots/swagger.png
 Then display it using:
 
 ```markdown
-![FastAPI Swagger UI](docs/screenshots/swagger.png)
+![FastAPI Swagger UI](C:\rag-assistant-project\docs\screenshots\swagger.png)
 ```
 
 ## Git & Repository Notes
