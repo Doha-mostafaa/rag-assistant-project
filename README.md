@@ -450,17 +450,11 @@ Current test result:
 
 ### Streamlit Chat Interface
 
+![Streamlit Chat Interface](./docs/screenshots/app.png)
 
-```markdown
-![PyTorch RAG Assistant](C:\rag-assistant-project\docs\screenshots\app.png)
-```
+### FastAPI Swagger UI
 
-### FastAPI Swagger Interface
-
-
-```markdown
-![FastAPI Swagger UI](C:\rag-assistant-project\docs\screenshots\swagger.png)
-```
+![FastAPI Swagger UI](./docs/screenshots/swagger.png)
 
 ## Git & Repository Notes
 
