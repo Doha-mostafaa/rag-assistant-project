@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.qodo/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files - see README for how to obtain)
+data/raw_docs/
+data/vector_store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
